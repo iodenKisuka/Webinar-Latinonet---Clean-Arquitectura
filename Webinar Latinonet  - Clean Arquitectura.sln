@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Enterprise Business Rules", "Enterprise Business Rules", "{A0B7C7DB-87F3-4FE4-AB44-4590374B964C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entitys", "Entitys\Entitys.csproj", "{645DACAB-121D-42B7-B590-BAB4395AAEFA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Interfaces Adapter", "Interfaces Adapter", "{A7ADB3D5-DD4B-4B75-9E7F-650EDBD374AF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gateways", "Gateways", "{703332BF-41F0-405F-9094-D55DB0BD50B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositorry", "Repositorry\Repositorry.csproj", "{0F59BF89-A973-4B53-923D-5A0D95A33D79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{645DACAB-121D-42B7-B590-BAB4395AAEFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{645DACAB-121D-42B7-B590-BAB4395AAEFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{645DACAB-121D-42B7-B590-BAB4395AAEFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{645DACAB-121D-42B7-B590-BAB4395AAEFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F59BF89-A973-4B53-923D-5A0D95A33D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F59BF89-A973-4B53-923D-5A0D95A33D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F59BF89-A973-4B53-923D-5A0D95A33D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F59BF89-A973-4B53-923D-5A0D95A33D79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{645DACAB-121D-42B7-B590-BAB4395AAEFA} = {A0B7C7DB-87F3-4FE4-AB44-4590374B964C}
+		{703332BF-41F0-405F-9094-D55DB0BD50B2} = {A7ADB3D5-DD4B-4B75-9E7F-650EDBD374AF}
+		{0F59BF89-A973-4B53-923D-5A0D95A33D79} = {703332BF-41F0-405F-9094-D55DB0BD50B2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FBBA099-229A-408E-8991-EAA54EB01E07}
+	EndGlobalSection
+EndGlobal
