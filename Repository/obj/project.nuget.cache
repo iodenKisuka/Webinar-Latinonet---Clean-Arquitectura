@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lp6kVh8p6fXOqsCL5E+j4OFxn9vNzZ+BDIIdCeFq340eARAGCLwziOXp/JSWqCdkCYZOrBEnJ1x99w3UFER33g==",
+  "dgSpecHash": "UUJxPW8uKNb0XVn8EPl4srv5v8+a2CiBXIfMBnczLbn9efs0CIlCEzRxty/Vnsj0vcwueD1qQ1CQnvj/3BNS4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DLCS\\source\\repos\\Webinar Latinonet  - Clean Arquitectura\\Repositorry\\Repository.csproj",
+  "projectFilePath": "C:\\Users\\DLCS\\source\\repos\\Webinar Latinonet  - Clean Arquitectura\\Repository\\Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DLCS\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\DLCS\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Repositorry.DataContext
+namespace Repository.DataContext
 {
     //crear migraciones esto es una fabrica de contexto
     public class ContextFactory : IDesignTimeDbContextFactory<ProductContext>
