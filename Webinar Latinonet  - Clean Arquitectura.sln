@@ -5,13 +5,13 @@ VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Enterprise Business Rules", "Enterprise Business Rules", "{A0B7C7DB-87F3-4FE4-AB44-4590374B964C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entitys", "Entitys\Entitys.csproj", "{645DACAB-121D-42B7-B590-BAB4395AAEFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entitys", "Entitys\Entitys.csproj", "{645DACAB-121D-42B7-B590-BAB4395AAEFA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Interfaces Adapter", "Interfaces Adapter", "{A7ADB3D5-DD4B-4B75-9E7F-650EDBD374AF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gateways", "Gateways", "{703332BF-41F0-405F-9094-D55DB0BD50B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositorry", "Repositorry\Repositorry.csproj", "{0F59BF89-A973-4B53-923D-5A0D95A33D79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repositorry", "Repositorry\Repositorry.csproj", "{0F59BF89-A973-4B53-923D-5A0D95A33D79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,0 +1,12 @@
+C:\Users\DLCS\source\repos\Webinar Latinonet  - Clean Arquitectura\Entitys\bin\Debug\net6.0\Entitys.deps.json
+C:\Users\DLCS\source\repos\Webinar Latinonet  - Clean Arquitectura\Entitys\bin\Debug\net6.0\Entitys.dll
+C:\Users\DLCS\source\repos\Webinar Latinonet  - Clean Arquitectura\Entitys\bin\Debug\net6.0\Entitys.pdb
+C:\Users\DLCS\source\repos\Webinar Latinonet  - Clean Arquitectura\Entitys\obj\Debug\net6.0\Entitys.csproj.AssemblyReference.cache
+C:\Users\DLCS\source\repos\Webinar Latinonet  - Clean Arquitectura\Entitys\obj\Debug\net6.0\Entitys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DLCS\source\repos\Webinar Latinonet  - Clean Arquitectura\Entitys\obj\Debug\net6.0\Entitys.AssemblyInfoInputs.cache
+C:\Users\DLCS\source\repos\Webinar Latinonet  - Clean Arquitectura\Entitys\obj\Debug\net6.0\Entitys.AssemblyInfo.cs
+C:\Users\DLCS\source\repos\Webinar Latinonet  - Clean Arquitectura\Entitys\obj\Debug\net6.0\Entitys.csproj.CoreCompileInputs.cache
+C:\Users\DLCS\source\repos\Webinar Latinonet  - Clean Arquitectura\Entitys\obj\Debug\net6.0\Entitys.dll
+C:\Users\DLCS\source\repos\Webinar Latinonet  - Clean Arquitectura\Entitys\obj\Debug\net6.0\refint\Entitys.dll
+C:\Users\DLCS\source\repos\Webinar Latinonet  - Clean Arquitectura\Entitys\obj\Debug\net6.0\Entitys.pdb
+C:\Users\DLCS\source\repos\Webinar Latinonet  - Clean Arquitectura\Entitys\obj\Debug\net6.0\ref\Entitys.dll

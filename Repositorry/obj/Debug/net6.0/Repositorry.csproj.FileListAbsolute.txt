@@ -1,0 +1,17 @@
+C:\Users\DLCS\source\repos\Webinar Latinonet  - Clean Arquitectura\Repositorry\bin\Debug\net6.0\Repositorry.deps.json
+C:\Users\DLCS\source\repos\Webinar Latinonet  - Clean Arquitectura\Repositorry\bin\Debug\net6.0\Repositorry.runtimeconfig.json
+C:\Users\DLCS\source\repos\Webinar Latinonet  - Clean Arquitectura\Repositorry\bin\Debug\net6.0\Repositorry.dll
+C:\Users\DLCS\source\repos\Webinar Latinonet  - Clean Arquitectura\Repositorry\bin\Debug\net6.0\Repositorry.pdb
+C:\Users\DLCS\source\repos\Webinar Latinonet  - Clean Arquitectura\Repositorry\bin\Debug\net6.0\Entitys.dll
+C:\Users\DLCS\source\repos\Webinar Latinonet  - Clean Arquitectura\Repositorry\bin\Debug\net6.0\Entitys.pdb
+C:\Users\DLCS\source\repos\Webinar Latinonet  - Clean Arquitectura\Repositorry\obj\Debug\net6.0\Repositorry.csproj.AssemblyReference.cache
+C:\Users\DLCS\source\repos\Webinar Latinonet  - Clean Arquitectura\Repositorry\obj\Debug\net6.0\Repositorry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DLCS\source\repos\Webinar Latinonet  - Clean Arquitectura\Repositorry\obj\Debug\net6.0\Repositorry.AssemblyInfoInputs.cache
+C:\Users\DLCS\source\repos\Webinar Latinonet  - Clean Arquitectura\Repositorry\obj\Debug\net6.0\Repositorry.AssemblyInfo.cs
+C:\Users\DLCS\source\repos\Webinar Latinonet  - Clean Arquitectura\Repositorry\obj\Debug\net6.0\Repositorry.csproj.CoreCompileInputs.cache
+C:\Users\DLCS\source\repos\Webinar Latinonet  - Clean Arquitectura\Repositorry\obj\Debug\net6.0\Repositorry.csproj.CopyComplete
+C:\Users\DLCS\source\repos\Webinar Latinonet  - Clean Arquitectura\Repositorry\obj\Debug\net6.0\Repositorry.dll
+C:\Users\DLCS\source\repos\Webinar Latinonet  - Clean Arquitectura\Repositorry\obj\Debug\net6.0\refint\Repositorry.dll
+C:\Users\DLCS\source\repos\Webinar Latinonet  - Clean Arquitectura\Repositorry\obj\Debug\net6.0\Repositorry.pdb
+C:\Users\DLCS\source\repos\Webinar Latinonet  - Clean Arquitectura\Repositorry\obj\Debug\net6.0\Repositorry.genruntimeconfig.cache
+C:\Users\DLCS\source\repos\Webinar Latinonet  - Clean Arquitectura\Repositorry\obj\Debug\net6.0\ref\Repositorry.dll
